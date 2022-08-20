@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": "248eb259-808f-4697-a5d0-c9d1f1d4e460",
-      "title": "Cycling",
+      "title": "Road Cycling",
       "description": "Go out ride a bicycle every morning",
       "status": false,
       "isDefault": true
@@ -16,23 +16,9 @@
     },
     {
       "id": "bb7ef2ea-eb59-4b9b-bd56-b7712a0c06e1",
-      "title": "Read Book",
+      "title": "Read A Book",
       "description": "Read book every day at least 20 pages a day",
-      "status": true,
-      "isDefault": true
-    },
-    {
-      "id": "6b063b31-18e2-4f88-a481-c0098b8214e2",
-      "title": "Coffeee",
-      "description": "Sip a cup of coffee",
-      "status": true,
-      "isDefault": true
-    },
-    {
-      "id": "ca13ff63-37aa-4525-be64-2d84f32c1ec4",
-      "title": "Check Email",
-      "description": "Always check your email",
-      "status": true,
+      "status": false,
       "isDefault": true
     }
   ]
