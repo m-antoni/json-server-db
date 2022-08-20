@@ -6,6 +6,6 @@ const port = process.env.PORT || 5000;
 
 // middleware
 server.use(middlewares);
-server.use('/api/v1',router);
+server.use('/api/v1',router); // custom endpoint ex. /api/v1/[todo]
 
 server.listen(port);
